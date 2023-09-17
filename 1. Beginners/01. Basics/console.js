@@ -1,12 +1,12 @@
 // ---------- CONSOLE ----------
-console.log("Hello World");
+console.log('Hello World');
 // log
 // clg
 // console.log(console); // console object
 
-console.error("This is an ERROR");
-console.warn("Warning");
-console.table({ name: "HuXn", age: 20, location: ["USA"] });
+console.error('This is an ERROR');
+console.warn('Warning');
+console.table({ name: 'VJDBarayuga', age: 20, location: ['USA'] });
 
 // ---------- COMMENTS ----------
 
